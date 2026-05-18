@@ -154,5 +154,5 @@ To capture and recover the R\$600,600 in leaked pipeline value and stabilize the
 *   **The ROI Justification:** Allocating R\$50 in specialized support to clear a domain or payment gate directly saves a R\$700 customer acquisition cost that would otherwise be written off as a total loss.
 
 ---
-**Repository Maintainer:** Hafsa | Data Infrastructure and Growth Analyst
+**Repository Maintainer:** Hafsa | Product Analyst and Funnel Strategist
 
