@@ -1,0 +1,14 @@
+# System files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-project
+
+# Data configuration backups
+*.bak
+*.sql.bak
